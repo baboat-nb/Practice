@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jenny</string>
+    <string name="calculate">Calculate</string>
+    <string name="settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="i_agree">I agree</string>
+    <string name="welcome_to_clipzy"> Welcome to Clipzy</string>
+    <string name="skip"> Skip </string>
+    <string name="by_continuing"> By continuing,you accept the Term of Use and Privacy Policy </string>
+    <string name="get_started"> Get Started </string>
+    <string name="abccccccc">abccccccc</string>
+    <string name="ok">OK</string>
+</resources>
